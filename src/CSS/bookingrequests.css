@@ -1,0 +1,24 @@
+.brcontainer{
+    background-image: url("./../images/profile.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    background-attachment: fixed;
+}
+
+.brheading{
+    padding-top: 50px;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+tr{
+    color: antiquewhite;
+}
+
+.trashimg {
+    height: 20px;
+    cursor: pointer;
+}

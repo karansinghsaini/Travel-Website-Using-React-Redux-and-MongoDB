@@ -1,0 +1,26 @@
+.footerdiv {
+    background-image: url("./../images/footer.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    background-attachment: fixed;
+}
+
+.sometext {
+    padding-top: 120px;
+    color: white;
+    font-size: 22px;
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+.smalltext {
+    padding-top: 40px;
+    color: lightgray;
+    font-size: 15px;
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+.footerimg {
+    height: 50px;
+}

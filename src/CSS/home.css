@@ -1,0 +1,10 @@
+.head1 {
+    font-size: 40px;
+    font-family: "Lucida Console", Courier, monospace;
+    font-style: italic;
+}
+
+.smallhead {
+    font-style: oblique;
+    font-family: "Lucida Console", Courier, monospace;
+}

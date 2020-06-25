@@ -1,0 +1,25 @@
+.modaltitle {
+    width: 50%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin-left: 90px;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.modal {
+    align-content: center;
+    width: 2000px;
+}
+
+.secondary {
+width: 20%;
+background-color: #4CAF50;
+color: white;
+padding: 14px 20px;
+margin: 8px 0;
+border: none;
+border-radius: 4px;
+}

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Components",
+    "\\src\\Redux",
+    "\\src\\Redux\\Actions",
+    "\\src\\Redux\\Reducers"
+  ],
+  "SelectedNode": "\\src\\Components\\BookingRequests.js",
+  "PreviewInSolutionExplorer": false
+}

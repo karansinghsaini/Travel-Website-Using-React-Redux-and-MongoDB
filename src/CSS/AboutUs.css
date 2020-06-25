@@ -1,0 +1,16 @@
+.heading {
+    padding-top: 50px;
+    color: white;
+    font-size: 40px;
+    font-family: "Lucida Console", Courier, monospace;
+    font-style: italic;
+}
+
+.aboutdiv {
+    background-image: url("./../images/bg1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    background-attachment: fixed;
+}

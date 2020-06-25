@@ -1,0 +1,12 @@
+.profilediv {
+    background-image: url("./../images/footer.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    background-attachment: fixed;
+}
+
+.heading{
+    color: white;
+}
